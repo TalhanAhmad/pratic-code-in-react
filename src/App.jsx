@@ -5,6 +5,7 @@ import img from '../public/Screenshot_8-9-2025_16612_.jpeg'
 import Footer from './components/Footer'
 function App() {
   return (
+    hrllo
     <div>
       <Navbar/>
       <section className='cards'>
