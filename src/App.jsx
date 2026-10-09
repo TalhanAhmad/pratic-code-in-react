@@ -16,6 +16,7 @@ function App() {
       <Cards image={img} title='protector' />
 hello
 hello
+hello
 </section>
 hello
 <Footer/>
