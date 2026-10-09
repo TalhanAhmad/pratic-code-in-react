@@ -15,6 +15,7 @@ function App() {
       <Cards image={img} title='class manager'/>
       <Cards image={img} title='protector' />
 hello
+hello
 </section>
 hello
 <Footer/>
