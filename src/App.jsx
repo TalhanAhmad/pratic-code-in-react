@@ -13,7 +13,7 @@ function App() {
       <Cards image={img} title='full developer'/>
       <Cards image={img} title='class manager'/>
       <Cards image={img} title='protector' />
-
+hello
 </section>
 
 <Footer/>
