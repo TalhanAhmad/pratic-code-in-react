@@ -1,4 +1,5 @@
-import React from 'react'
+
+helloimport React from 'react'
 import Navbar from './components/Navbar'
 import Cards from './components/Cards'
 import img from '../public/Screenshot_8-9-2025_16612_.jpeg'
